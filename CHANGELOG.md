@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/Krapfeen/test2/compare/v1.0.2...v1.0.3) (2025-03-14)
+
+### Miscellaneous Chores
+
+* add manifest ([b502115](https://github.com/Krapfeen/test2/commit/b502115d6cad859d28b760d17dea58992f1cc376))
+
 ## [1.0.2](https://github.com/Krapfeen/test2/compare/v1.0.1...v1.0.2) (2025-03-14)
 
 ### Miscellaneous Chores
