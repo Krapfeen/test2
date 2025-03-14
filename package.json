@@ -1,4 +1,6 @@
 {
+  "name": "your-package-name",
+  "version": "1.0.1",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",
