@@ -114,6 +114,7 @@
             "@semantic-release/git",
             {
                 "assets": [
+                    "public/manifest.json",
                     "package.json",
                     "CHANGELOG.md"
                 ],
